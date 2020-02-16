@@ -40,6 +40,20 @@ If everything works as expected, you should be able to see the theme with some s
 
 To start modifying the theme, update the `_config.yml` file. Blog posts go in the `_posts` folder. 
 
+### Deploying Instructions and baseurl
+
+You should always leave the `baseUrl` in `_config.yml` as empty e.g.
+
+```
+baseurl: ''
+```
+
+You should set the `url` property to the URL of your website if you are deploying it behind a domain. E.g.
+
+```
+url: https://codeahoy.com
+```
+
 ## License
 
 cc 4.0 with attribution. See LICENSE.md for more info
