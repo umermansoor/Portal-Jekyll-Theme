@@ -1,0 +1,65 @@
+# Site
+name: 'CodeAhoy'
+description: 'CodeAhoy is an open source technical blog'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicons/favicon.ico'
+baseurl: ''
+disqus: ''
+email: 'codeahoy@gmail.com'
+mailchimp-list: 'https://codeahoy.us4.list-manage.com/subscribe/post?u=6b5fe80416251fea8d9dd7295&amp;id=ada86cf826'
+
+include: ["_pages"]
+# permalink: /:title/
+permalink: pretty
+
+future: true
+
+# Plugins
+plugins: 
+  # - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    umer:
+      name:           Umer Mansoor
+      site:           https://www.codeahoy.com
+      avatar:         /assets/images/avatar-umer.jpg
+      bio:            "Hi, I am Umer. I'm a software developer."
+      email:          codeahoy@gmail.com
+      twitter:        https://twitter.com/codeahoy
+
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: umer
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+paginate_path:         '/blog/page:num' 
+
+collections:
+  java:
+    output: true
+    author: umer
+    # permalink: /:collection/:name # don't want dates 
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /about/
+Disallow: /blog/page*
+Disallow: /about.html
+Disallow: /author-umer
+Disallow: /tags.html
+Disallow: /categories.html

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodeAhoy - Articles</title>
+    <description>CodeAhoy is an open source technical blog</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>Technical Debt is Soul-crushing</title>
+        
+          <description>&lt;p&gt;Technical debt is incurred when the software or system designers take &lt;strong&gt;short-cuts&lt;/strong&gt; to ship a feature faster, increasing the overall complexity of the system. The goal is to optimize for the present rather than the future. In other words, it’s the easier path that takes us to the end-goal faster but the resulting code (or design) is messy and complicated. It will require extra time in the future to add new features or to fix bugs.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 25 Jan 2020 00:00:00 -0800</pubDate>
+        <link>
+        http://localhost:4000/2020/01/25/technical-debt/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/25/technical-debt/</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Do Software Developers Normally Code on Weekends? Work-life Balance and Overtime in the Tech Industry</title>
+        
+          <description>&lt;p&gt;Despite all the perks tech companies offer to employees these days (unlimited PTOs, catered lunches, refreshments, beer on tap, dog friendly offices, gyms, yoga classes), there is often an indirect or hidden pressure on software engineers to put in more hours or to code on weekends. Managers say things like:&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 19 Oct 2019 00:00:00 -0700</pubDate>
+        <link>
+        http://localhost:4000/2019/10/19/do-software-developers-work-weekends-work-life-tech/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/19/do-software-developers-work-weekends-work-life-tech/</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>GraphQL - A Practical Overview and Hands-On Tutorial</title>
+        
+          <description>&lt;p&gt;GraphQL is a &lt;strong&gt;Q&lt;/strong&gt;uery &lt;strong&gt;L&lt;/strong&gt;anguage for APIs. It provides a fresh and &lt;em&gt;modern&lt;/em&gt; approach to fetching (and manipulating) data from APIs when compared to traditional methods such as REST. Its power comes from the ability to let clients talk to a single endpoint and specify exactly what data they need. That’s very powerful indeed.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 13 Oct 2019 00:00:00 -0700</pubDate>
+        <link>
+        http://localhost:4000/2019/10/13/graphql-practical-tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/13/graphql-practical-tutorial/</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
