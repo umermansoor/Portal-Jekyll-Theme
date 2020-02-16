@@ -1,10 +1,12 @@
-## Portal Jekyll Theme
+# Portal Jekyll Theme
 
 Portal is mobile-first Jekyll theme for technical blogs and websites. For more info, read this [blog post](https://codeahoy.com/2020/02/15/portal-jekyll-theme/).
 
 ### Live Demo
 
 [CodeAhoy.com](https://codeahoy.com)
+
+![portal jekyll theme screenshot](assets/images/screenshot.jpg)
 
 ### Features
 - Boostrap 4.1 theme
