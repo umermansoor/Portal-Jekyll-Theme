@@ -4,7 +4,7 @@ Portal is mobile-first Jekyll theme for technical blogs and websites. For more i
 
 ### Live Demo
 
-[CodeAhoy.com](CodeAhoy.com)
+[CodeAhoy.com](https://codeahoy.com)
 
 ### Features
 - Boostrap 4.1 theme
