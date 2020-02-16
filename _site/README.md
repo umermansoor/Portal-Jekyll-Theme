@@ -1,6 +1,6 @@
 ## Portal Jekyll Theme
 
-Portal is mobile-first Jekyll theme for technical blogs and websites. The source code is available at: [https://github.com/umermansoor/Portal-Jekyll-Theme](https://github.com/umermansoor/Portal-Jekyll-Theme)
+Portal is mobile-first Jekyll theme for technical blogs and websites. For more info, read this [blog post](https://codeahoy.com/2020/02/15/portal-jekyll-theme/).
 
 ### Live Demo
 
@@ -37,5 +37,4 @@ jekyll serve --watch
 If everything works as expected, you should be able to see the theme with same contents at [http://127.0.0.1:4000/index.html](http://127.0.0.1:4000/index.html)
 
 ## License
-cc 4.0 with attribution
-See LICENSE.md for more info
+cc 4.0 with attribution. See LICENSE.md for more info
